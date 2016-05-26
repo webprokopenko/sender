@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "test task like sender",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ivan Prokopenko",
+      "email": "web.prokopenko@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  }
+}
