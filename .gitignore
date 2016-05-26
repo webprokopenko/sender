@@ -1,3 +1,4 @@
 .idea
 logs
 tests/_output/
+web/assets
